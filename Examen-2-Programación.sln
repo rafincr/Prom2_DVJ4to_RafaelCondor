@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen-2-Programación", "Examen-2-Programación.csproj", "{F2AD06B4-5B33-5683-6CB4-F12C9C2BB6D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2AD06B4-5B33-5683-6CB4-F12C9C2BB6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AD06B4-5B33-5683-6CB4-F12C9C2BB6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AD06B4-5B33-5683-6CB4-F12C9C2BB6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AD06B4-5B33-5683-6CB4-F12C9C2BB6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
